@@ -1,17 +1,18 @@
 {
-  "name": "require-react-gulp",
+  "name": "webpack-react",
   "version": "0.0.1",
-  "description": "Exemplo que utiliza JSX (React) compilado via gulp. Extensão do repositório https://github.com/lipelopeslage/require-react",
+  "description": "Exemplo feito em CommonJS e ReactJS, utilizando o plugin jsx-loader e compactados via webpack.",
   "author": "Felipe Lopes Lage <felipelopeslage@hotmail.com>",
   "main": "js/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lipelopeslage/require-react-gulp"
+    "url": "https://github.com/lipelopeslage/webpack-react"
   },
   "keywords": [
-    "requirejs",
+    "commonjs",
     "react",
-    "jsx"
+    "jsx",
+    "webpack"
   ],
   "dependencies": {
     "webpack":"*",
