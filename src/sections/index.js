@@ -1,0 +1,1 @@
+require('../components/IndexComponent.jsx');
